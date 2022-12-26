@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianv4
 - 👀 I’m interested in Front End Programming Web
-- 🌱 I’m currently learning Tailwind CSS
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me in Whatsapp (081-336-732-252)
 
 <!---
