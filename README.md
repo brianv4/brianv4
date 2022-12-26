@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @brianv4
+- 👋 Hi, I’m Brian Vidyanjaya
+- 🏡 I'm From Probolinggo, Jawa Timur, Indonesia 
 - 👀 I’m interested in Front End Programming Web
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me in Whatsapp (081-336-732-252)
